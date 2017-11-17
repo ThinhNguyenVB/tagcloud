@@ -1,0 +1,19 @@
+#tagcloud .smallest{
+    font-size: 14px
+}
+
+#tagcloud .small {
+    font-size: 18px;
+}
+ 
+#tagcloud .medium {
+    font-size: 22px;
+}
+ 
+#tagcloud .large {
+    font-size: 26px;
+}
+ 
+#tagcloud .largest {
+    font-size: 30px;
+}
